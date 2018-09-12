@@ -18,7 +18,7 @@ img {
 	margin-bottom: 0px;
 	height: 47%;
 }
-table, tr, td {
+table, td, tr {
 	border-width: 3px;
 	border-color: #555555;
 	border-style: ridge;
