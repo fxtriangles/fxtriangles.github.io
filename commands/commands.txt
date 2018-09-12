@@ -1,0 +1,5 @@
+AUDUSD
+Sell
+Bid
+tp
+sl
