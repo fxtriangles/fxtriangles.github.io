@@ -25,5 +25,8 @@ table, tr, td {
 
 	height: 100%;
 	vertical-align: middle;
-	padding: 0px;
+	padding: 10px;
+}
+table {
+	width: 100%;
 }
