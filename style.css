@@ -12,7 +12,6 @@ img {
 	border: 0px;
 }
 #img1 {
-	margin-right: 20px;
 	margin-bottom: 0px;
 	height: 48%;
 }
@@ -25,8 +24,8 @@ table, td, tr {
 	border-color: #555555;
 	border-style: ridge;
 	border-collapse: collapse;
-	background-color: #990055;
-	text-align: right-side;
+	background-color: #000055;
+	
 	height: 100%;
 	vertical-align: middle;
 	padding: 1px;
