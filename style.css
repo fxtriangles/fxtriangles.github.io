@@ -3,15 +3,14 @@ body {
 	margin: 2px;
 	background-color: #000055;
 }
-img {
+img {display: block;
 	margin-top: 0px;
 	margin-right: -1px;
 	margin-left: 0px;
 }
 #img1 {
-	margin-bottom: -4px;
+	margin-bottom: 0px;
 height: 150px;
-    padding: 5px;
 
 }
 #img2 {
@@ -22,9 +21,9 @@ table, tr, td {
 	border-color: #555555;
 	border-style: ridge;
 	border-collapse: collapse;
-	background-color: #000055;
+	background-color: #990055;
 
 	height: 100%;
 	vertical-align: middle;
-	padding: 0px;
+	padding: 1px;
 }
