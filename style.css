@@ -26,7 +26,7 @@ table, td, tr {
 	border-style: ridge;
 	border-collapse: collapse;
 	background-color: #990055;
-align: center;
+	text-align: right-side;
 	height: 100%;
 	vertical-align: middle;
 	padding: 1px;
