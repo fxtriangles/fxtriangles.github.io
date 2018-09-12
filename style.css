@@ -3,18 +3,18 @@ body {
 	margin: 2px;
 	background-color: #000055;
 }
-img {display: block;
+img {	display: block;
 	margin-top: 0px;
 	margin-right: -1px;
 	margin-left: 0px;
 }
 #img1 {
 	margin-bottom: 0px;
-height: 150px;
 
 }
 #img2 {
 	margin-bottom: 0px;
+
 }
 table, tr, td {
 	border-width: 3px;
@@ -25,5 +25,5 @@ table, tr, td {
 
 	height: 100%;
 	vertical-align: middle;
-	padding: 1px;
+	padding: 0px;
 }
