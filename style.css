@@ -3,3 +3,25 @@ body {
 	margin: 2px;
 	background-color: #000055;
 }
+img {
+	margin-top: 0px;
+	margin-right: -1px;
+	margin-left: 0px;
+}
+#img1 {
+	margin-bottom: -4px;
+}
+#img2 {
+	margin-bottom: 0px;
+}
+table, tr, td {
+	border-width: 3px;
+	border-color: #555555;
+	border-style: ridge;
+	border-collapse: collapse;
+	background-color: #990055;
+
+	height: 100%;
+	vertical-align: middle;
+	padding: 0px;
+}
