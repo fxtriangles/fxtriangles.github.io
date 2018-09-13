@@ -35,3 +35,23 @@ table {
 #td1 {
 	width: 48%;
 }
+div.screens {
+	display: block;
+	margin-bottom: -2px;
+	margin-right: 2px;
+	margin-left: 0px;
+	float: left;
+	padding: 0px;
+}
+@media screen and (max-width: 1920px) {
+	div.screens 			{		width: 630px;		}
+	div.screens img 		{		height: 300px;	border: 2px ridge #777777;	padding: 0px;}
+}
+@media screen and (max-width: 667px) {
+	div.screens 			{		width: 330px;		}
+	div.screens img 		{		height: 183px;	border: 2px ridge #777777;	padding: 0px;}
+}
+@media screen and (max-width: 375px) {
+	div.screens 			{		width: 370px;		}
+	div.screens img 		{		height: 164px;	border: 2px ridge #777777;	padding: 0px;}
+}
