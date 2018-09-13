@@ -26,7 +26,8 @@ table, td, tr {
 	background-color: #000044;
 	
 	height: 183px;
-	vertical-align: middle;
+	vertical-align: top;
+	text-align: center;
 	padding: 0px;
 }
 table {
