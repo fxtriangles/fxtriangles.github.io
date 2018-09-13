@@ -13,7 +13,7 @@ img {
 	border: 0px;
 }
 #img1 {
-	height: 48%;
+	height: 100%;
 }
 #img2 {
 	height: 100%;
@@ -25,7 +25,7 @@ table, td, tr {
 	border-collapse: collapse;
 	background-color: #990055;
 	
-	height: 180px;
+	height: 182px;
 	vertical-align: middle;
 	padding: 0px;
 }
