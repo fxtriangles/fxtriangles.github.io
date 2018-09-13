@@ -32,3 +32,6 @@ table, td, tr {
 table {
 	width: 100%;
 }
+#td1 {
+	width: 40%;
+}
