@@ -25,7 +25,6 @@
 	    border: 2px ridge #777777;
 		padding: 0px;
 		width: 100%;
-		height: 183px;
 	}
 	div.screens {
 		display: block;
@@ -34,74 +33,20 @@
 		margin-left: 0px;
 		float: left;
 		padding: 0px;
+	}
+	@media screen and (max-width: 1920px) {
+		div.screens {		width: 630px;		}
+		img 		{		height: 300px;		}
+	}
 		
-@media screen and (max-width: 1920px) {
-	div.screens {
-		display: block;
-		margin-bottom: -2px;
-		margin-right: 2px;
-		margin-left: 0px;
-		float: left;
-		padding: 0px;
-		width: 630px;
+	@media screen and (max-width: 667px) {
+		div.screens {		width: 330px;		}
+		img 		{		height: 183px;		}
 	}
-	img {
-		display: block;
-		margin-top: auto;
-		margin-bottom: auto;
-		margin-right: auto;
-		margin-left: auto;
-	    border: 2px ridge #777777;
-		padding: 0px;
-		width: 100%;
-		height: 300px;
+	@media screen and (max-width: 375px) {
+		div.screens {		width: 370px;		}
+		img 		{		height: 164px;		}
 	}
-}
-	
-@media screen and (max-width: 667px) {
-	div.screens {
-		display: block;
-		margin-bottom: -2px;
-		margin-right: 2px;
-		margin-left: 0px;
-		float: left;
-		padding: 0px;
-		width: 330px;
-	}
-	img {
-		display: block;
-		margin-top: auto;
-		margin-bottom: auto;
-		margin-right: auto;
-		margin-left: auto;
-	    border: 2px ridge #777777;
-		padding: 0px;
-		width: 100%;
-		height: 183px;
-	}
-}
-@media screen and (max-width: 375px) {
-	div.screens {
-		display: block;
-		margin-bottom: -2px;
-		margin-right: 2px;
-		margin-left: 0px;
-		float: left;
-		padding: 0px;
-		width: 370px;
-	}
-	img {
-		display: block;
-		margin-top: auto;
-		margin-bottom: auto;
-		margin-right: auto;
-		margin-left: auto;
-	    border: 2px ridge #777777;
-		padding: 0px;
-		width: 100%;
-		height: 164px;
-	}
-}
 	</style>
 
 </head>
