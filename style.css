@@ -1,14 +1,14 @@
 body { 
 	display: block;
-	margin: 2px;
+	margin: 0px;
 	background-color: #000055;
 }
 img {	
 	display: block;
-	margin-top: 0px;
-	margin-bottom: 0px;
-	margin-right: -1px;
-	margin-left: 0px;
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-right: auto;
+	margin-left: auto;
 	width: 100%;
 	border: 0px;
 }
@@ -16,7 +16,7 @@ img {
 	height: 48%;
 }
 #img2 {
-	height: 300px;
+	height: 190px;
 }
 table, td, tr {
 	border-width: 3px;
