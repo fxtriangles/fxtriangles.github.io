@@ -24,9 +24,9 @@ table, td, tr {
 	border-color: #555555;
 	border-style: ridge;
 	border-collapse: collapse;
-	background-color: #000055;
+	background-color: #990055;
 	
-	height: 50px;
+	height: 100%;
 	vertical-align: middle;
 	padding: 1px;
 }
