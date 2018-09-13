@@ -46,7 +46,7 @@ div.screens {
 @media screen and (max-width: 1920px) {
 	div.screens 			{		width: 630px;		}
 	div.screens img 		{		height: 300px;	border: 2px ridge #777777;	padding: 0px;}
-	#img_full				{		width: 100%; height: auto;		}
+	#img_full				{		width: 100%; height: 100%;		}
 }
 @media screen and (max-width: 667px) {
 	div.screens 			{		width: 330px;		}
