@@ -25,7 +25,7 @@ table, td, tr {
 	border-collapse: collapse;
 	background-color: #990055;
 	
-	height: 180px;
+	height: 100%;
 	vertical-align: middle;
 	padding: 1px;
 }
