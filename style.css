@@ -60,6 +60,6 @@ div.screens {
 }
 @media screen and (max-width: 312px) {
 	div.screens 			{		width: 312px;		}
-	div.screens img 		{		height: 590px;	border: 2px ridge #777777;	padding: 0px;}
-	#img_full				{		width: 100%; height: 90px;		}
+	div.screens img 		{		height: 300px;	border: 2px ridge #777777;	padding: 0px;}
+	#img_full				{		width: 100%; height: 300px;		}
 }
